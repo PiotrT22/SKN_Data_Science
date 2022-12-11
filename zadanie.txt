@@ -1,0 +1,11 @@
+W załączniku przesyłamy Ci data set z którego będziesz korzystał/a na potrzeby zadania. 
+Zbiór danych obejmuje takie zmienne jak liczba ciąż, w których pacjentka była, jej BMI, poziom ciśnienia krwi, poziom insuliny, wiek, zmienna outcome, 
+która ma na celu przewidywać czy pacjentka ma cukrzycę oraz inne zmienne znajdujące się w pliku csv.
+Badane osoby w tym konkretnym zbiorze danych obejmują kobiety w wieku co najmniej 21 lat. 
+
+Zadanie będzie składało się z trzech części: 
+1.	W pierwszej części chcielibyśmy abyś skupił/a się na przygotowaniu danych oraz jej analizie.
+2.	Następnym krokiem będzie stworzenie modelu predykcyjnego zmiennej outcome.
+3.	Ostatnim krokiem będzie wizualizacja danych i prezentacja wyników.
+
+W zadaniu rekrutacyjnym zależy Nam na twojej kreatywności i podejściu do tematu. 
